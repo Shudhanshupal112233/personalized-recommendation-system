@@ -1,0 +1,21 @@
+product_id,title,tags,category,popularity_score
+1,Casual Summer Dress,"summer,casual",dresses,82
+2,Running Shoes,"sports,comfortable",shoes,90
+3,Leather Wallet,"classic,elegant",accessories,75
+4,Beach Hat,"summer,accessories",accessories,85
+5,Boho Skirt,"boho,pastel,summer",skirts,80
+6,Yoga Pants,"sports,casual",bottoms,88
+7,Formal Shirt,"classic,formal",tops,70
+8,Sunglasses,"summer,accessories",accessories,95
+9,Graphic T-shirt,"casual,trendy",tops,77
+10,Pastel Handbag,"pastel,elegant",accessories,83
+11,Winter Jacket,"winter,warm",outerwear,92
+12,Denim Jeans,"casual,denim",bottoms,86
+13,Silk Scarf,"classic,elegant",accessories,78
+14,Sport Watch,"sports,digital",accessories,89
+15,Summer Sandals,"summer,casual",shoes,87
+16,Floral Dress,"boho,summer",dresses,84
+17,Sports Cap,"sports,summer",accessories,81
+18,Woolen Sweater,"winter,warm",tops,79
+19,Fitness Tracker,"sports,tech",accessories,93
+20,Party Blazer,"formal,party",tops,76
